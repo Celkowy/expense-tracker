@@ -1,4 +1,4 @@
-import react, { useState } from 'react'
+import { useState } from 'react'
 import './NewExpense.css'
 import ExpenseForm from './ExpenseForm'
 
