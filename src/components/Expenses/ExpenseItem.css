@@ -35,6 +35,18 @@
   border-radius: 12px;
 }
 
+.expense-item__remove {
+  width: 40px;
+  height: 35px;
+  border: 1px solid white;
+  background-color: #40005d;
+  color: white;
+  border-radius: 12px;
+  font-size: 21px;
+  cursor: pointer;
+  margin-right: 8px;
+}
+
 @media (min-width: 580px) {
   .expense-item__description {
     flex-direction: row;
